@@ -1,0 +1,4 @@
+insert into movie values(nextval('hibernate_sequence'), 'Full metal jacket', 'https://pad.mymovies.it/filmclub/2006/04/020/locandina.jpg', 1987);
+insert into movie values(nextval('hibernate_sequence'), 'Non e'' un paese per vecchi', 'https://aforismi.meglio.it/img/film/Non_%C3%A8_un_paese_per_vecchi.jpg',2007);
+insert into movie values(nextval('hibernate_sequence'), 'The founder', 'https://pad.mymovies.it/filmclub/2016/03/235/locandina.jpg',2016);
+insert into movie values(nextval('hibernate_sequence'), 'Harry Potter e la pietra filosofale', 'https://pad.mymovies.it/filmclub/2001/12/001/locandina.jpg',2001);
